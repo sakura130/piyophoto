@@ -1,0 +1,31 @@
+.header{
+  background-color:green;
+  font-family: serif;
+  height:80px;
+  opacity:0.8;
+}
+
+.header-logo{
+  color:white;
+  padding: 20px 40px;
+  font-size:23px;
+  float:left;
+  
+}
+
+.header-right li{
+  float:right;
+  list-style: none;
+  padding:30px 30px; 
+  color: white;
+}
+
+a:link{
+  color:white;
+  text-decoration:none;
+}
+
+a:hover{
+color:blue;
+  text-decoration: underline;
+} 
