@@ -4,9 +4,17 @@
   <meta charset= "utf-8">
   <title>piyohpoto</title>
   <link rel ="stylesheet" href="style.css">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
     <script src="js/jquery.bgswitcher.js"></script>
-</head>
+      
+   <script>
+jQuery(function($) {
+    $('.bg-slider').bgSwitcher({
+        images: ['https://cdn.pixabay.com/photo/2017/01/04/19/41/caramel-1952997_1280.jpg','https://cdn.pixabay.com/photo/2017/11/16/08/35/christmas-2953719_1280.jpg','https://cdn.pixabay.com/photo/2017/08/30/17/12/waffle-heart-2697904_1280.jpg'], // 切り替える背景画像を指定
+    });
+});
+</script
+</head>:
 <body>
 <!--ヘッダーここから-->
   <div class= "header">
@@ -24,7 +32,7 @@
     
     <!-- ここからスライドショー-->
     <div class="bg-slider">
-      <h1>スライド</h1>
+      
     </div>
 
 

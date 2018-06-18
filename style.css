@@ -1,5 +1,5 @@
 .header{
-  background-color:green;
+  background-color:#DDDDDD;
   font-family: serif;
   height:80px;
   opacity:0.8;
@@ -29,3 +29,14 @@ a:hover{
 color:blue;
   text-decoration: underline;
 } 
+
+
+.bg-slider {
+	width: 100vw;
+	height: 100vh;
+	background-position:center center;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
