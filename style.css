@@ -1,6 +1,6 @@
 .header{
   background-color:#DDDDDD;
-  font-family: serif;
+  font-family: 'Amatic SC', cursive;
   height:80px;
   opacity:0.8;
 }
@@ -10,13 +10,13 @@
   padding: 20px 40px;
   font-size:23px;
   float:left;
-  
+
 }
 
 .header-right li{
   float:right;
   list-style: none;
-  padding:30px 30px; 
+  padding:30px 10px;
   color: white;
 }
 
@@ -28,8 +28,7 @@ a:link{
 a:hover{
 color:blue;
   text-decoration: underline;
-} 
-
+}
 
 .bg-slider {
 	width: 100vw;
