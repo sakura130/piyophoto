@@ -7,7 +7,7 @@
 }
 
 .header-logo{
-  color:white;
+  color: #FFF;
   padding: 20px 40px;
   font-size:23px;
   float:left;
@@ -22,7 +22,7 @@
 }
 
 a:link{
-  color:white;
+  color: #FFF;
   text-decoration:none;
 }
 
