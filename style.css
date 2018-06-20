@@ -1,6 +1,8 @@
-html,body{margin:0px;}
+body{
+  margin:0px;
+}
 
-.header{
+#header{
   background-color:#DDDDDD;
   font-family: 'Amatic SC', cursive;
   height:80px;
