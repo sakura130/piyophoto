@@ -2,6 +2,7 @@
   background-color:#DDDDDD;
   font-family: 'Amatic SC', cursive;
   height:80px;
+  width: 100%;
   opacity:0.8;
 }
 
@@ -26,7 +27,7 @@ a:link{
 }
 
 a:hover{
-color:blue;
+color:black;
   text-decoration: underline;
 }
 
