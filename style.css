@@ -45,3 +45,47 @@ color:black;
 	align-items: center;
 	justify-content: center;
 }
+
+
+/*プロフィールCSS*/
+
+#profile{
+width:80%;
+clear:both;
+margin: auto;
+}
+
+.profile-contents{
+  padding: 25px 40px;
+  font-size:35px;
+  float:left;
+}
+
+.header-right_2 li{
+  float:right;
+  list-style: none;
+  padding:35px 10px;
+  color: black;
+}
+
+#side{
+  width: 980px;
+  padding: 46px 0 0 0;
+  margin: auto;
+}
+
+.side_message {
+  float: left;
+  line-height:2.0em;
+  text-align: left;
+  width:300px;
+
+}
+
+.profile_img{
+  float: right;
+ text-align: right;
+ width:680px;
+
+}
+
