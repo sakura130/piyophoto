@@ -1,10 +1,10 @@
 body{
   margin:0px;
+  font-family: 'Amatic SC', cursive;
 }
 
 #header{
   background-color:#DDDDDD;
-  font-family: 'Amatic SC', cursive;
   height:115px;
   width: 100%;
   opacity:0.8;
@@ -59,6 +59,7 @@ margin: auto;
   padding: 25px 40px;
   font-size:35px;
   float:left;
+  font-weight: bold;
 }
 
 .header-right_2 li{
