@@ -50,13 +50,14 @@ color:black;
 /*プロフィールCSS*/
 
 #profile{
-width:80%;
+width: 1000px;
 clear:both;
 margin: auto;
+height:100px;
 }
 
 .profile-contents{
-  padding: 25px 40px;
+  padding: 25px 70px;
   font-size:35px;
   float:left;
   font-weight: bold;
@@ -67,10 +68,11 @@ margin: auto;
   list-style: none;
   padding:35px 10px;
   color: black;
+  font-size: 18px;
 }
 
 #side{
-  width: 980px;
+  width: 1000px;
   padding: 46px 0 0 0;
   margin: auto;
 }
@@ -79,7 +81,8 @@ margin: auto;
   float: left;
   line-height:2.0em;
   text-align: left;
-  width:300px;
+  width:310px;
+  display: inline;
 
 }
 
@@ -87,6 +90,11 @@ margin: auto;
   float: right;
  text-align: right;
  width:680px;
+ display: inline;
 
 }
 
+
+.side_img{
+display: inline;
+}
